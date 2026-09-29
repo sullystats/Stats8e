@@ -1,2 +1,2 @@
-# Statistics6e
- Data for Stats 6e
+# Statistics: Informed Decisions Using Data 8e
+ Data for Stats 8e
